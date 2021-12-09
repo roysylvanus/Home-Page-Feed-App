@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Feed App</string>
+    <string name="card_text">text</string>
+    <string name="network_disconnected">There is a problem with your network connection. Please check your settings.</string>
+</resources>
